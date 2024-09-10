@@ -17,4 +17,4 @@ MonoBehaviour:
   maxAngle: 2
   maxN: 6
   max_to_coal_wall: 0.8
-  connectorLength: 0
+  connectorLength: 0.4
